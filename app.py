@@ -1,7 +1,9 @@
 pritn ('hello github')
 
-name='vilas'
-gender='male'
+name='Durga'
+gender='female'
+
+
 
 age=26
 
